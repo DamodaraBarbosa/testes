@@ -1,4 +1,4 @@
 As notas vão de 0 a 10
 
-Sendo que notas menores que 7 levam a recuperação.
-Maiores que 7 levam a aprovação.
+Sendo que notas menores que 5 levam a recuperação.
+Maiores que 8 levam a aprovação.
